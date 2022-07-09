@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tienda-coder/static/css/main.38be36b0.css",
+    "main.js": "/tienda-coder/static/js/main.905a6a55.js",
+    "static/js/787.ab7dd4a3.chunk.js": "/tienda-coder/static/js/787.ab7dd4a3.chunk.js",
+    "index.html": "/tienda-coder/index.html",
+    "main.38be36b0.css.map": "/tienda-coder/static/css/main.38be36b0.css.map",
+    "main.905a6a55.js.map": "/tienda-coder/static/js/main.905a6a55.js.map",
+    "787.ab7dd4a3.chunk.js.map": "/tienda-coder/static/js/787.ab7dd4a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38be36b0.css",
+    "static/js/main.905a6a55.js"
+  ]
+}
